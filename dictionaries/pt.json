@@ -1,0 +1,34 @@
+{
+  "header": {
+    "demo": "Demonstração"
+  },
+  "footer": {
+    "powered_by": "Criado com ❤️ por"
+  },
+  "home": {
+    "hero": {
+      "featured": "Ganhe dinheiro",
+      "title": "criando cursos interativos",
+      "subtitle": "Crie cursos interativos e ganhe dinheiro online. É mais rápido e fácil do que produzir vídeos. Cobramos apenas uma pequena comissão sobre as vendas. Não tem risco."
+    }
+  },
+  "waiting": {
+    "title": "Ganhe desde o primeiro dia",
+    "subtitle": "Você será convidado antes do lançamento. Ou seja, apenas criadores que entrarem na lista de espera terão cursos no primeiro dia. Não vamos enviar spam. O seu e-mail será usado apenas para enviar o convite.",
+    "email": "Endereço de email",
+    "email_placeholder": "Digite seu email",
+    "action": "Avisar",
+    "success": "Obrigado! Vamos te avisar quando puder começar a criar conteúdo.",
+    "errpr": "Ocorreu um erro. Por favor, tente novamente."
+  },
+  "metadata": {
+    "home": {
+      "title": "Wisek: Ganhe dinheiro com cursos interativos online",
+      "description": "Como ganhar dinheiro vendendo cursos online. Crie cursos interativos tipo Duolingo e tenha uma renda extra.",
+      "twitter": {
+        "title": "Wisek",
+        "description": "Ganhe dinheiro criando cursos interativos. É mais fácil e rápido do que produzir vídeos."
+      }
+    }
+  }
+}

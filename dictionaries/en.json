@@ -1,0 +1,34 @@
+{
+  "header": {
+    "demo": "Live demo"
+  },
+  "footer": {
+    "powered_by": "Created with ❤️ by"
+  },
+  "home": {
+    "hero": {
+      "featured": "Earn money",
+      "title": "creating interactive courses",
+      "subtitle": "Create interactive courses and earn money on our marketplace. It's easier and faster than producing videos. We only charge you a small comission fee. It's risk-free."
+    }
+  },
+  "waiting": {
+    "title": "Start earning from day one",
+    "subtitle": "You’ll be notified before our launch. This means only creators who joined the waiting list will have courses available during our launch. We won’t spam you. We’ll use your email address only to notify you when we’re accepting creators into the platform.",
+    "email": "Email address",
+    "email_placeholder": "Enter your email",
+    "action": "Notify me",
+    "success": "Thank you! We'll notify you can start creating courses.",
+    "error": "Something went wrong. Please try again later."
+  },
+  "metadata": {
+    "home": {
+      "title": "Wisek: Earn money with interactive courses",
+      "description": "Tool for creating interactive courses that you can sell online and earn money.",
+      "twitter": {
+        "title": "Wisek",
+        "description": "Earn money selling interactive courses online. It's easier and faster than creating video courses."
+      }
+    }
+  }
+}
